@@ -9,7 +9,8 @@
 // @author:zh-CN    VisJoker
 // @github          https://github.com/VisJoker
 // @homepage        https://github.com/VisJoker/windhawk-mouse-wrap
-// @include         *
+// @include         explorer.exe
+// @architecture    x86-64
 // @license         MIT
 // ==/WindhawkMod==
 
